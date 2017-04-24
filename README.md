@@ -27,7 +27,7 @@ GoToElbowCoordinates( )함수에 glRotatef( )함수를 추가 하였습니다.</
 아래로 가는 경우를 생각해서 ‘ up ’ 이라는 변수를 만들어서 현재 팔이 올라가는지 내
 려가는지를 구분했고,</br> 각도를 증가시킬지 감소시킬지를 정했습니다.</br>
 
-![EarthDefensor](./image/opengl01.gif)</br>
+![EarthDefensor](./image/openGL02.gif)</br>
 ***
 
 
